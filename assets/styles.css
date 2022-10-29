@@ -1,0 +1,33 @@
+*{
+   font-family: 'Tiro Gurmukhi', serif;
+}
+
+body{
+   margin-top: 50px;
+}
+
+#content{
+   width: 80%;
+   min-width: 300px;
+   max-width: 1000px;
+   margin: auto;
+}
+
+#tagline{
+   margin-left: 20px;
+   font-size: 1.5rem;
+   font-style: italic;
+   color: #707070;
+}
+
+h3{
+   font-size: 1.5em;
+}
+
+h4{
+   font-size: 1.3em;
+}
+
+a{
+   text-decoration: none;
+}
